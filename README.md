@@ -2,7 +2,7 @@
 - 👀 I am confident and insightful, enjoying deep discussion to understand a particular issue.
 - 🌱 I’m currently pursuing my Masters in Information Technology from Clark University.
 - 💞️ I’m looking to collaborate on Python Projects.
-- 📫 How to reach me e-mail:- Amitchandt99@gmail.com
+- 📫 How to reach me on e-mail:- Amit.t@myit-job.com
 
 <!---
 CallmeAT/CallmeAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
